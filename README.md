@@ -1,7 +1,15 @@
 # 📊 Employee Training and Performance Analysis
 
+## Project Details
+- Industry: Human Resource Department
+- Tool(s): PowerBi, Power Query
+- Data source: [statso.io](https://statso.io/2025/05/20/evaluating-the-impact-of-a-training-program-case-study/)
+- Role- Data Analyst/Strategy Consultant
+- Inspired by: Aman Kharwal
+
 ## 📝  Overview
 This project delivers an in-depth analysis of employee demographics, departmental distribution, training attendance, and performance metrics. The dashboard visualizes organizational data to identify correlations between training and employee output, aiming to support HR and management teams in optimizing workforce strategies.
+
 
 ## 🎯 Project Goals and Scope
 
@@ -42,7 +50,7 @@ Staff Strength by Department
 | Sales        | 191       |
 | HR           | 168       |
 
-Training Attendance
+### Training Attendance
 | Department   | Attended Training | Did Not Attend |
 |--------------|-------------------|----------------|
 | Marketing    | 77                | 145            |
@@ -51,7 +59,7 @@ Training Attendance
 | Sales        | 77                | 114            |
 | HR           | 65                | 103            |
 
-Average Performance by Training Status
+### Average Performance by Training Status
 | Department   | No Training | Training Attended |
 |--------------|-------------|-------------------|
 | HR           | 66          | 71                |
@@ -62,7 +70,7 @@ Average Performance by Training Status
 
 ## 🎓 Demographics & Qualifications
 
-Staff Strength by Age & Qualification
+### Staff Strength by Age & Qualification
 | Age Range | PhD | Master | High School | Bachelor |
 |-----------|-----|--------|-------------|----------|
 | 52–61     | 2   | 2      | 6           | 0        |
@@ -70,7 +78,7 @@ Staff Strength by Age & Qualification
 | 32–41     | 140 | 99     | 0           | 234      |
 | 12–31     | 12  | 0      | 0           | 179      |
 
-Performance by Qualification & Training
+### Performance by Qualification & Training
 | Qualification | No Training | Training Attended |
 |---------------|-------------|-------------------|
 | Master        | 65          | 71                |
@@ -80,7 +88,7 @@ Performance by Qualification & Training
 
 ## 📈 Performance vs Experience
 
-Department-Level Averages
+### Department-Level Averages
 | Department   | Avg Experience | Avg Performance |
 |--------------|----------------|-----------------|
 | HR           | 8              | 69              |
@@ -89,7 +97,7 @@ Department-Level Averages
 | Finance      | 8              | 68              |
 | Engineering  | 8              | 66              |
 
-Total Performance Score by Experience Range
+### Total Performance Score by Experience Range
 | Experience Range (Years) | Total Score |
 |--------------------------|-------------|
 | 0–5                      | 15K         |
