@@ -107,7 +107,10 @@ Total Performance Score by Experience Range
 - Employees who attended training consistently scored higher across all departments.
 - Marketing has the largest department size but relatively lower initial performance scores.
 - Most qualified employees are in the 32–41 age range, showing a strong Bachelor and Master presence.
+- Qualifications matter, especially when paired with training -PhD and Master's holders show the strongest outcomes.
+- Performance improves with education level and training attendance.
 - Performance trends peak between 6–15 years of experience before tapering off.
+- EXperience has moderate impact, with older and more experienced employees tending toward higher performance, but the correlation is weak overall.
 
 ## 🧩 Recommendations
 
@@ -142,6 +145,16 @@ These strategic insights were derived from the dashboard analysis and aim to gui
 - Maintain Real-Time Dashboards
   - Keep dashboards updated quarterly to track KPIs, training outcomes, and strategy adjustments.
   - Share live dashboards with department heads for transparent oversight.
+ 
+# 🧠 Conclusion
+Training attendance positively impacts employee performance across all qualifications and departments. This dashboard serves as an actionable tool for HR to tailor training programs, prioritize departmental support, and forecast staffing needs based on qualification and experience.
+
+      About the Analyst
+ Seré Victor Okomayin is a passionate and detail-oriented data practitioner, an ambassador of the Data Global Hub community driving data literacy and responsible AI usage around the globe. Victor helps individuals and businesses leverage the power of data by building intuitive and interactive data products that aids informed decisions. 
+
+ Let's connect:
+  [LinkedIn](https://www.linkedin.com/in/victorokomayin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 
 
