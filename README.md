@@ -118,7 +118,7 @@ Staff Strength by Department
 - Qualifications matter, especially when paired with training -PhD and Master's holders show the strongest outcomes.
 - Performance improves with education level and training attendance.
 - Performance trends peak between 6–15 years of experience before tapering off.
-- EXperience has moderate impact, with older and more experienced employees tending toward higher performance, but the correlation is weak overall.
+- Experience has moderate impact, with older and more experienced employees tending toward higher performance, but the correlation is weak overall.
 
 ## 🧩 Recommendations
 
